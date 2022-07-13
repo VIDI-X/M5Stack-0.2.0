@@ -1,4 +1,4 @@
-# M5Stack Library
+# M5Stack Library fork for VIDI X Microcomputer
 
 ## Usage
 ### Installing the USB Driver
